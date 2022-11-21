@@ -1,2 +1,2 @@
-# JULY-SSHOPPING
+# JULY-SHOPPING
 Tienda Online
